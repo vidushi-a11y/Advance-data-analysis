@@ -1,0 +1,14 @@
+Q1. Which region generate highest revenue?
+Ans. South Region.
+
+Q2. Which category has highest profit margin?
+Ans. Furniture Category.
+
+Q3. Are discounts reducing profitability?
+Ans. Yes, higher discounts are reducing overall profitability.
+
+Q4. Which customer segments is most valuable?
+Ans. Consumer Segment.
+
+Q5. Is there a seasonal sales trend?
+Ans. Yes, there is a clear seasonal trend with sales fluctuating over different time periods.
